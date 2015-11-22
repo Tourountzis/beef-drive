@@ -13,8 +13,11 @@ file system primitives and its API.
 
 ### Installation
 1. Create an API key and OAuth 2.0 client ID using Google Developers Console.
+
 2. In your Drive create a folder with name `answers` to store answers from zombies, a folder with name `init` to store initial information from zombies, and a file with name `keychain.txt` to store your API key. Save IDs of these folders and file. You can use any names for folders and file. The above names are used as an example only
+
 3. Clone the [beef-drive](https://github.com/tsu-iscd/beef-drive.git). [Install](https://github.com/beefproject/beef/wiki/Installation) all dependencies that are required for BeEF
+
 4. Add the IDs from step 2 to the following files:
 	* core/main/client/gdrive.js:
     	* `api_key` - Google OAuth2.0 API key
