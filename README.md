@@ -29,12 +29,11 @@ file system primitives and its API.
     * `@@answer_folder_id` - ID of the `answers` folder
     * `@@init_folder_id` - ID of the `init` folder
     * `@@key_file_id` - ID of the `keychain.txt` file
-
 5. Run the beef:
 
-```
+	```
  ruby beef
-```
+	```
 
 ### Video
 The demonstration is available [here](http://www.youtube.com/watch?v=_RfBUEcvynM)
