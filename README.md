@@ -38,8 +38,17 @@ file system primitives and its API.
  	ruby beef
 	```
 
+
+### Slides
+The slides from our talk at [Zero Nights 2015](http://2015.zeronights.org/) are available [here] (http://www.slideshare.net/dnkolegov/zn27112015).
+
 ### Video
 The demonstration is available [here](http://www.youtube.com/watch?v=_RfBUEcvynM).
+
+### Team
+* Denis Kolegov
+* Oleg Broslavsky
+* Nikita Oleksov
 
 ### Links
 * [The Browser Exploitation Framework Project] (https://github.com/beefproject/beef)
